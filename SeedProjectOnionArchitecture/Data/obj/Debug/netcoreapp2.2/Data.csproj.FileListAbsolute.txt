@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Data\bin\Debug\netcoreapp2.2\Data.deps.json
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Data\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Data\obj\Debug\netcoreapp2.2\Data.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Data\obj\Debug\netcoreapp2.2\Data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Data\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Data\obj\Debug\netcoreapp2.2\Data.dll
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Data\obj\Debug\netcoreapp2.2\Data.pdb
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Data\bin\Debug\netcoreapp2.2\Data.runtimeconfig.json
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Data\bin\Debug\netcoreapp2.2\Data.runtimeconfig.dev.json
