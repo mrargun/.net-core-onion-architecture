@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Service\obj\Debug\netcoreapp2.2\Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Service\obj\Debug\netcoreapp2.2\Service.pdb

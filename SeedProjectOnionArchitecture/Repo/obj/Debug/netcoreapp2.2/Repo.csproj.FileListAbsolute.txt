@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Repo\bin\Debug\netcoreapp2.2\Repo.deps.json
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Repo\bin\Debug\netcoreapp2.2\Repo.dll
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Repo\bin\Debug\netcoreapp2.2\Repo.pdb
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Repo\obj\Debug\netcoreapp2.2\Repo.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Repo\obj\Debug\netcoreapp2.2\Repo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Repo\obj\Debug\netcoreapp2.2\Repo.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Repo\obj\Debug\netcoreapp2.2\Repo.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Repo\obj\Debug\netcoreapp2.2\Repo.dll
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Repo\obj\Debug\netcoreapp2.2\Repo.pdb
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Repo\bin\Debug\netcoreapp2.2\Data.dll
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Repo\bin\Debug\netcoreapp2.2\Data.pdb
+C:\Users\Administrator\source\repos\SeedProjectOnionArchitecture\Repo\obj\Debug\netcoreapp2.2\Repo.csproj.CopyComplete
